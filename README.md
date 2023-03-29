@@ -1,5 +1,18 @@
 # TIL
-- description of what I learned today
+#### Description of what I learned today
+
+## 2023-03-27
+- Install git bash
+- Learn how to use vim editor
+
+## 2023-03-28
+- Learn about commit, push, add, repository
+- Commit
+  - Size of commit
+  - When we usually commit
+- Repository
+  - How to use 'git init'
+  - The difference between normal directory and repository
 
 ## 2023-03-29
 - Move all codes to VSC
