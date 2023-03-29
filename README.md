@@ -17,3 +17,5 @@
 ## 2023-03-29
 - Move all codes to VSC
 - Make new repository 'TIL'
+- Staging Area
+  - You can use 'git add' when you want to add specific files in staging area
