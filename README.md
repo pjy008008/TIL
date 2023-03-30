@@ -19,3 +19,8 @@
 - Make new repository 'TIL'
 - Staging Area
   - You can use `git add` when you want to add specific files in staging area
+
+## 2023-03-30
+- Learn python framework **Django**
+  - Make CRUD system in Django
+  - Learn difference between Django and Flask
