@@ -24,3 +24,8 @@
 - Learn python framework **Django**
   - Make CRUD system in Django
   - Learn difference between Django and Flask
+
+## 2023-04-02
+- Learn about class in C++
+  - public and private
+  - make variable and function
