@@ -8,10 +8,20 @@ void swap(int& x, int& y) {
 	y = temp;
 }
 
+int Euclidean(int a, int b)
+{
+	int r = a % b;
+	if (r == 0) {
+		return b;
+	}
+	return Euclidean(b, r);
+}
+
 int main() {
 	int fa2,count = 1;
 	int a1, a2, b1, b2,c1,c2;
 	int result;
+	int x;
 	cin >> a1 >> a2 >> b1 >> b2;
 	if (a2 < b2) {
 		swap(a1, b1);
@@ -34,23 +44,9 @@ int main() {
 	}
 	c1 = a1 + b1;
 	c2 = a2;
-	cout << a1 << ' ' << b1 << endl;
-	cout << c1 << ' '<< c2 << endl;
-	if (c1 == c2) {
-		c1 = 1;
-		c2 = 1;
-	}
-	else if (c2 % c1 == 0 || c1 % c2 == 0) {
-		if (c2 > c1) {
-			c2 /= c1;
-			c1 /= c1;
-		}
-		else {
-			c2 /= c2;
-			c1 /= c2;
-		}
-	}
+	x=Euclidean(c1, c2);
+	c1 /= x;
+	c2 /= x;
 	cout << c1 << ' ' << c2;
-	// 최대공약수 구하는 식 구할것
 	return 0;
 }

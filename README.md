@@ -29,3 +29,10 @@
 - Learn about class in C++
   - public and private
   - make variable and function
+
+## 2023-04-03
+- Euclidean algorithm
+- Git branch
+  - Add branch `git branch [branchname]`
+  - Switch branch `git switch [branchname]`
+  - Merge branches `git merge [branchname]` 
