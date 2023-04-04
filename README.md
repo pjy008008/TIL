@@ -36,3 +36,7 @@
   - Add branch `git branch [branchname]`
   - Switch branch `git switch [branchname]`
   - Merge branches `git merge [branchname]` 
+
+## 2023-04-04
+- Git pull request
+- Git branch for issues
