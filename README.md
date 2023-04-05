@@ -40,3 +40,15 @@
 ## 2023-04-04
 - Git pull request
 - Git branch for issues
+
+## 2023-04-05
+- Make project use ReactJS(frontend) and Django(backend)
+- Rest-framwork
+- Django-Cors
+  - CORS : Cross-Origin Resource Sharing
+  - `pip install django-cors-headers`
+- Virtual Environment
+  - `sudo apt-get install python-venv`
+  - `python3 -m venv VIRTUAL_ENVIRONMENT`
+  - `source VIRTUAL_ENVIRONMENT/bin/activate`
+  - `deactivate`
