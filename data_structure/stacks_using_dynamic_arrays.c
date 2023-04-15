@@ -24,7 +24,7 @@ void push(int item) {
 	if (top >= capacity) {
 		stackFull();
 	}
-	(stack+(++top))->key = item;
+	(stack + (++top))->key = item;
 }
 int pop() {
 	if (top == -1) {
@@ -40,5 +40,6 @@ int main() {
 	printf("%d\n", pop()); // 2
 	printf("%d\n", pop()); // 1
 	printf("%d\n", pop()); // stack is empty
+	free(stack);
 	return 0;
 }
