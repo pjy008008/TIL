@@ -52,3 +52,9 @@
   - `python3 -m venv VIRTUAL_ENVIRONMENT`
   - `source VIRTUAL_ENVIRONMENT/bin/activate`
   - `deactivate`
+
+## 2023-04-16
+- Data structure
+  - linked_list
+  - queue using dynamic arrays
+  - stack using dynamic arrays
