@@ -61,5 +61,5 @@
   
 ## 2023-04-19
 - Computer structure
-. - Flip flop
-. - CPU, register...
+  - Flip flop
+  - CPU, register...
