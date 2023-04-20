@@ -58,3 +58,8 @@
   - linked_list
   - queue using dynamic arrays
   - stack using dynamic arrays
+  
+## 2023-04-19
+- Computer structure
+  - Flip flop
+  - CPU, register...
