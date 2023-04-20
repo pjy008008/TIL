@@ -42,9 +42,9 @@ int main() {
 	element second = { 2 };
 	push(0, first);
 	push(0, second);
-	printf("%d\n", top[0]->data); //2
+	printf("%d\n", top[0]->data);  //2
 	pop(0);
-	printf("%d\n", top[0]->data); //1
+	printf("%d\n", top[0]->data);  //1
 
 	return 0;
 }
