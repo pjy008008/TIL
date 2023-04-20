@@ -55,7 +55,7 @@
 
 ## 2023-04-16
 - Data structure
-  - linked_list
+  - linked list
   - queue using dynamic arrays
   - stack using dynamic arrays
   
@@ -63,3 +63,7 @@
 - Computer structure
   - Flip flop
   - CPU, register...
+
+## 2023-04-21
+- Data structure
+  - linked stacks
