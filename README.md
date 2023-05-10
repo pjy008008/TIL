@@ -65,6 +65,7 @@
   - CPU, register...
 
 ## 2023-04-21
+
 - Data structure
   - linked stacks
   - linked queue
