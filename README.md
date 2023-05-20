@@ -65,7 +65,16 @@
   - CPU, register...
 
 ## 2023-04-21
-
 - Data structure
   - linked stacks
   - linked queue
+
+## 2023-05-16
+- Opensw Project start
+- Collaboration with git
+  - git Organizations
+  - git fork
+
+## 2023-05-20
+- Axios
+  - POST, GET requests with Axios
