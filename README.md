@@ -78,3 +78,7 @@
 ## 2023-05-20
 - Axios
   - POST, GET requests with Axios
+
+## 2023-05-31
+- django token
+  - Axios GET(header) token
