@@ -1,15 +1,13 @@
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
-#include <time.h> // delete
 
 int main()
 {
     char str1[200000]; //200000
     char str2[200000]; //200000
     int sum[10001]; //10001
-    clock_t start = clock(); //delete
-    FILE *pFile = fopen("final4.txt", "r");
+    FILE *pFile = fopen("input.txt", "r");
     fgets(str1, 200000, pFile);
     fgets(str2, 200000, pFile);
     fclose(pFile);
