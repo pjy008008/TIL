@@ -82,3 +82,15 @@
 ## 2023-05-31
 - django token
   - Axios GET(header) token
+
+## 2023-06-10
+- Data structure
+  - Tree
+    - Avl,2-3,2-4,B-Tree,B+-Tree..
+  - Graph
+    - DFS, BFS
+
+## 2023-06-27
+- Typescript
+  - implict, explict type
+  - unknown, void, never type
