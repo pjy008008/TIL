@@ -7,11 +7,16 @@ int main()
     char str1[200000]; //200000
     char str2[200000]; //200000
     int sum[10001]; //10001
+<<<<<<< Updated upstream
     FILE *pFile = fopen("input.txt", "r");
+=======
+
+    FILE* pFile = fopen("input_2.txt", "r");
+>>>>>>> Stashed changes
     fgets(str1, 200000, pFile);
     fgets(str2, 200000, pFile);
     fclose(pFile);
-    char *ptr1 = strtok(str1, "(),");
+    char* ptr1 = strtok(str1, "(),");
     while (ptr1 != NULL)
     {
         int coef = atoi(ptr1);
@@ -24,7 +29,7 @@ int main()
         sum[exp] = coef;
         ptr1 = strtok(NULL, "(),");
     }
-    char *ptr2 = strtok(str2, "(),");
+    char* ptr2 = strtok(str2, "(),");
     while (ptr2 != NULL)
     {
         int coef = atoi(ptr2);
@@ -48,14 +53,7 @@ int main()
             }
             printf("%dx^%d", sum[i], i);
             isFirst = 0;
-            // if (!isFirst) strcat(output, " + ");
-            // char temp[64];
-            // sprintf(temp, "%dx^%d", sum[i], i);
-            // strcat(output, temp);
-            // isFirst = 0;
         }
     }
-    clock_t end = clock();                                    // delete
-    printf("\n%lf", (double)(end - start) / ((clock_t)1000)); // delete
     return 0;
 }

@@ -94,3 +94,8 @@
 - Typescript
   - implict, explict type
   - unknown, void, never type
+
+## 2023-06-28
+- Typescript
+  - Call Signature
+  - Overloading
