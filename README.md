@@ -94,3 +94,14 @@
 - Typescript
   - implict, explict type
   - unknown, void, never type
+
+## 2023-06-30
+- Typescript
+  - Call signature
+  - Polymorphism
+  - Generic
+
+## 2023-07-01
+- Typescript
+  - Interface
+  - The difference between type and interface
