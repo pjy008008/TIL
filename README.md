@@ -109,3 +109,12 @@
 - Typescript
   - Interface
   - The difference between type and interface
+- NextJS
+  - Static Pre Rendering, Client Side Rendering(Static Pre Rendering is good at SEO)
+  - Pages
+
+## 2023-07-02
+- NextJS
+  - CSS Modules
+  - Styles JSX
+  - Head, Layout
