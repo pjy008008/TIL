@@ -118,3 +118,8 @@
   - CSS Modules
   - Styles JSX
   - Head, Layout
+
+## 2023-07-04
+- TypeScript
+  - Making LocalStorageAPI, GeoLocationAPI in typescript
+  - abstract class
