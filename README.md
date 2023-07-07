@@ -158,3 +158,8 @@
     - strict
   - Declaration Files(*.d.ts)
   - JSDoc(@ts-check)
+
+## 2023-07-07
+- TypeScript
+  - Translate the JSDoc comments to Typescript Type Declarations
+  - How to write Callback Function in TypeScript
