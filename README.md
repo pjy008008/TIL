@@ -162,4 +162,4 @@
 ## 2023-07-07
 - TypeScript
   - Translate the JSDoc comments to Typescript Type Declarations
-  - How to write Callback Function in TypeScript
+  - How to write Callback Function in TypeScript/home/pjy008008/TIL/baekjoon
