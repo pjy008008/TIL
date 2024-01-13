@@ -156,10 +156,20 @@
     - target
     - lib
     - strict
-  - Declaration Files(*.d.ts)
+  - Declaration Files(\*.d.ts)
   - JSDoc(@ts-check)
 
 ## 2023-07-07
+
 - TypeScript
   - Translate the JSDoc comments to Typescript Type Declarations
   - How to write Callback Function in TypeScript/home/pjy008008/TIL/baekjoon
+
+## 2024-01-13
+
+- React Router Dom V6
+  - The difference between V5 and V6
+  - How to handle errorElement
+  - BrowserRouter
+  - useNavigate, useParams
+  - Outlet
