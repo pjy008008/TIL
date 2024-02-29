@@ -173,3 +173,21 @@
   - BrowserRouter
   - useNavigate, useParams
   - Outlet
+
+## 2024-02
+
+- Recoil
+  - A state management library for React
+  - Write short description of atoms in atoms.ts
+  - useRecoilValue
+  - useSetRecoilState
+- ReactQuery
+  - How to manage APIs by using ReactQuery
+  - useQuery(QueryKey,QueryFn)
+  - ReactQueryDevtools
+  - refetchInterval
+  - Before the API loaded you can watch cache memory
+- React-Hook_Form
+  - register, formState, setError, handleSubmit, setValue
+  - Form Validation
+  - Form Error
