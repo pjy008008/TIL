@@ -115,12 +115,7 @@ poly_t * poly_scale (poly_t * p, double s)
 
 poly_t * poly_add (poly_t * p1, poly_t * p2)
 {
-   int i;
-   for (i = 0 ; i < p->n_terms ; i++) {
-      if (p->degree < p->terms[i].exp) {
-         p->degree = p->terms[i].exp ;
-      }
-   }
+   
 }
 
 poly_t * poly_sub (poly_t * p1, poly_t * p2)
