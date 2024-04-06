@@ -1,12 +1,20 @@
 #include <stdio.h>
+
 #define SIZE 100
+
 int stack[SIZE], choice, top;
+
 void push(int x);
-int pop();
-void display();
+
+int pop(void);
+
+void display(void);
+
 int main()
 {
+
     top = -1;
+
     push(1);
 
     push(2);
@@ -29,21 +37,63 @@ int main()
 }
 
 void push(int x)
+
 {
-    top++;
-    stack[top] = x;
-}
-int pop()
-{
-    int temp = stack[top];
-    top--;
-    return temp;
-}
-void display()
-{
-    int i = top;
-    for (; i >= 0; i--)
+
+    if (top >= SIZE - 1)
+
+        printf("\n\tSTACK is over flow");
+
+    else
+
     {
-        printf("%d\n", stack[i]);
+
+        top++;
+
+        stack[top] = x;
+    }
+}
+
+int pop()
+
+{
+
+    if (top <= -1)
+    {
+
+        printf("\n\t Stack is under flow");
+    }
+
+    else
+    {
+
+        top--;
+
+        return stack[top + 1];
+    }
+}
+
+void display()
+
+{
+
+    int i;
+
+    if (top >= 0)
+
+    {
+
+        for (i = top; i >= 0; i--)
+
+            printf("%d \n", stack[i]);
+
+        printf("\n");
+    }
+
+    else
+
+    {
+
+        printf("\n The STACK is empty");
     }
 }

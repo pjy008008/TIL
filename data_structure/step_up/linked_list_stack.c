@@ -1,68 +1,110 @@
 #include <stdio.h>
+
 #include <stdlib.h>
 
 void push(int);
+
 int pop();
+
 void print_s();
 
 typedef struct node
 {
+
     int data;
+
     struct node *next;
+
 } stack;
 
 stack *top = NULL;
 
 int main()
 {
+
     push(1);
+
     push(2);
+
     push(3);
+
     push(4);
+
     push(5);
+
     print_s();
 
     pop();
-    pop();
-    print_s();
 
-    return 0;
+    pop();
+
+    print_s();
 }
 
 void push(int data)
 {
-    stack *temp = (stack*)malloc(sizeof(stack));
-    if (temp == NULL) {
-        printf("Memory allocation failed.\n");
-        return;
+
+    stack *new_node = (stack *)malloc(sizeof(stack));
+
+    if (new_node == NULL)
+    {
+
+        printf("stack is full!");
+
+        exit(1);
     }
-    temp->data = data;
-    temp->next = top;
-    top = temp;
+
+    new_node->data = data;
+
+    new_node->next = top;
+
+    top = new_node;
 }
 
 int pop()
 {
-    if (top == NULL) {
-        printf("Stack is empty.\n");
-        return -1;
+
+    stack *del;
+
+    int value;
+
+    if (top == NULL)
+    {
+
+        printf("stack is empty!");
+
+        exit(1);
     }
-    int data = top->data;
-    stack *temp = top;
+
+    value = top->data;
+
+    del = top;
+
     top = top->next;
-    free(temp);
-    return data;
+
+    free(del);
+
+    return value;
 }
 
 void print_s()
 {
-    if (top == NULL) {
-        printf("Stack is empty.\n");
-        return;
+
+    stack *i;
+
+    stack *count = top;
+
+    i = count;
+
+    while (i != NULL)
+    {
+
+        printf("%d \n", i->data);
+
+        i = count->next;
+
+        count = count->next;
     }
-    stack *current = top;
-    while (current != NULL) {
-        printf("%d\n", current->data);
-        current = current->next;
-    }
+
+    printf("\n");
 }
