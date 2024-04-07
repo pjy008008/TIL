@@ -4,7 +4,6 @@
 typedef struct NodeStruct
 
 {
-
     int value;
 
     struct NodeStruct *leftChild;
