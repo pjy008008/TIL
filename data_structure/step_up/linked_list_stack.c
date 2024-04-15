@@ -39,6 +39,12 @@ int main()
     pop();
 
     print_s();
+
+    push(3);
+
+    push(4);
+
+    print_s();
 }
 
 void push(int data)
@@ -90,20 +96,20 @@ int pop()
 void print_s()
 {
 
-    stack *i;
+    stack *i = top;
 
-    stack *count = top;
+    // stack *count = top;
 
-    i = count;
+    // i = count;
 
     while (i != NULL)
     {
 
         printf("%d \n", i->data);
 
-        i = count->next;
+        i = i->next;
 
-        count = count->next;
+        // count = count->next;
     }
 
     printf("\n");
