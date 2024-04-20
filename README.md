@@ -195,3 +195,10 @@
 ## 2024-04
 - Computer Network
 - Operating System
+  - What is OS?
+  - Multics vs UNIX
+  - Architectural Support for OS
+  - Trap and Interrupt
+  - OS Protection
+  - Process and Thread
+  - How to solve Synchronization problem(Peterson's Algorithm)
