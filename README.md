@@ -194,6 +194,9 @@
 
 ## 2024-04
 - Computer Network
+  - Data transmission and propagation
+  - Encoding and modulation
+  - Error correction
 - Operating System
   - What is OS?
   - Multics vs UNIX
