@@ -195,6 +195,8 @@
 ## 2024-04
 - Computer Network
   - Data transmission and propagation
+  - Spectrum
+  - Antenna
   - Encoding and modulation
   - Error correction
 - Operating System
