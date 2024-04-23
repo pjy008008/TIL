@@ -201,6 +201,7 @@
   - Error correction
 - Operating System
   - What is OS?
+  - CPU Scheduling(FIFO, SJF, SRTF, RR, Multi Level Feedback Queue)
   - Multics vs UNIX
   - Architectural Support for OS
   - Trap and Interrupt
