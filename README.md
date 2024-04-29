@@ -208,4 +208,4 @@
   - OS Protection
   - Process and Thread
   - How to solve Synchronization problem(Peterson's Algorithm)
-  - Virtual Memory
+  - Virtual Memory(TLB)
