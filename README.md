@@ -210,3 +210,4 @@
   - How to solve Synchronization problem(Peterson's Algorithm)
   - Virtual Memory(TLB)
   - Memory Management
+  - Fixed Partition, Variable Partition, Overlay, Swapping
