@@ -209,3 +209,4 @@
   - Process and Thread
   - How to solve Synchronization problem(Peterson's Algorithm)
   - Virtual Memory(TLB)
+  - Memory Management
