@@ -199,6 +199,8 @@
   - Antenna
   - Encoding and modulation
   - Error correction
+  - Data Link Control Protocols
+  - Multiplexing
 - Operating System
   - What is OS?
   - CPU Scheduling(FIFO, SJF, SRTF, RR, Multi Level Feedback Queue)
