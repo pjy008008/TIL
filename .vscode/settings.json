@@ -4,6 +4,14 @@
         "fstream": "cpp",
         "iostream": "cpp",
         "iosfwd": "cpp",
-        "*.tcc": "cpp"
+        "*.tcc": "cpp",
+        "pthread.h": "c",
+        "stdlib.h": "c",
+        "stdio.h": "c",
+        "types.h": "c",
+        "wait.h": "c",
+        "array": "c",
+        "string": "c",
+        "string_view": "c"
     }
 }
