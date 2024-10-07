@@ -1,48 +1,22 @@
 {
+    "version": "2.0.0",
     "tasks": [
         {
-            "type": "cppbuild",
-            "label": "C/C++: g++ 활성 파일 빌드",
-            "command": "/usr/bin/g++",
+            "label": "C/C++: g++ 활성 파일 빌드",  // `launch.json`의 `preLaunchTask`와 일치해야 함
+            "type": "shell",
+            "command": "/usr/bin/g++",  // 사용할 컴파일러 경로
             "args": [
-                "-fdiagnostics-color=always",
-                "-g",
-                "${file}",
+                "-g",  // 디버그 심볼 추가
+                "${file}",  // 현재 활성 파일
                 "-o",
-                "${fileDirname}/${fileBasenameNoExtension}"
-            ],
-            "options": {
-                "cwd": "${fileDirname}"
-            },
-            "problemMatcher": [
-                "$gcc"
+                "${fileDirname}/${fileBasenameNoExtension}"  // 출력 파일
             ],
             "group": {
                 "kind": "build",
                 "isDefault": true
             },
-            "detail": "디버거에서 생성된 작업입니다."
-        },
-        {
-            "type": "cppbuild",
-            "label": "C/C++: gcc build active file",
-            "command": "/usr/bin/gcc",
-            "args": [
-                "-fdiagnostics-color=always",
-                "-g",
-                "${file}",
-                "-o",
-                "${fileDirname}/${fileBasenameNoExtension}"
-            ],
-            "options": {
-                "cwd": "${fileDirname}"
-            },
-            "problemMatcher": [
-                "$gcc"
-            ],
-            "group": "build",
-            "detail": "compiler: /usr/bin/gcc"
+            "problemMatcher": ["$gcc"],
+            "detail": "디버그 또는 릴리즈 모드에 따라 다른 플래그를 적용할 수 있음"
         }
-    ],
-    "version": "2.0.0"
+    ]
 }
