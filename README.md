@@ -213,3 +213,42 @@
   - Virtual Memory(TLB)
   - Memory Management
   - Fixed Partition, Variable Partition, Overlay, Swapping
+
+## 2024-09~12
+- Software Engineering
+  - Project Management
+  - Project Planning
+  - Requirement Engineering
+  - System Modeling
+  - Architectural Design
+  - Testing
+  - Configuration Management
+- Artificial Intelligence
+  - Machine Learning
+  - Deep Learning
+  - AI Algorithm(CNN, RNN, LSTM)
+  - AI with Hyperscale
+  - AI Platform
+  - Generative AI
+- Server Programming
+  - File System
+  - Process
+  - Thread
+  - Socket Programming(TCP, UDP)
+- Information Protection
+  - Authentication
+  - Access Control(DAC,MAC,RBAC,ABAC)
+  - Encryption(DES, AES, RC4)
+  - ECB, CBC, CFB, OFB, CTR
+  - Hash Function(SHA-512)
+  - RSA Public-Key Encryption Algorithm
+
+
+## 2025-03
+- Data Science
+  - Data Measurement and PreProcessing
+  - Frequent Pattern
+- Cloud Computing
+  - NIST(SaaS, PaaS, IaaS)
+  - Grid Computing
+- JAVA
