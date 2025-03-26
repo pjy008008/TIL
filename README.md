@@ -252,3 +252,13 @@
   - NIST(SaaS, PaaS, IaaS)
   - Grid Computing
 - JAVA
+  - Variable
+  - Method
+  - Operator
+  - Condition
+  - Loop
+  - Scope
+  - Casting
+  - Array
+  - Method
+  - Class
