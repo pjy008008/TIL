@@ -262,3 +262,16 @@
   - Array
   - Method
   - Class
+
+## 2025-04
+- Java
+  - Primitive, Reference type
+  - OOP(Capsulation, Inheritance, Polymorphism)
+  - Constructor, Package
+  - Access Control
+  - Memory Structure, static
+  - OCP(Open-Closed-Principle)
+  - Object Class
+  - Immutable Object
+  - String, Wrapper, Class class
+  - Enum
