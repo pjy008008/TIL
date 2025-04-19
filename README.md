@@ -288,3 +288,8 @@
   - Static Contents, MVC, API
   - DB Access(JDBC, JdbcTemplate, JPA, Data JPA)
   - AOP(Aspect-Oriented Programming)
+- Kotlin
+  - Basic Syntax (val/var, functions, string templates)
+  - Null Safety (?, !!, ?:, let, safe call)
+  - Data Class
+  - Class, Inheritance, Interface
