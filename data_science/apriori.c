@@ -2,7 +2,6 @@
 #include <stdlib.h>
 #include <string.h>
 #include <math.h>
-#include <time.h>
 
 #define MAX_LINE_LENGTH 10000
 #define MAX_ITEMS 10000
@@ -21,18 +20,9 @@ int calculate_support(int *itemset, int size);
 void generate_subsets(int *items, int n, FILE *output);
 
 int main() {
-
-    clock_t start, end;
-    double cpu_time_used;
-    start = clock();
-
     enterData();
     apriori();
     freeData();
-
-    end = clock();  // 끝난 시간 측정
-    cpu_time_used = ((double)(end - start)) / CLOCKS_PER_SEC;  // 초 단위로 변환
-    printf("실행 시간: %.6f 초\n", cpu_time_used);
     return 0;
 }
 
@@ -116,7 +106,7 @@ int compare(const void *a, const void *b) {
 
 void generate_subsets(int *items, int n, FILE *output) {
     int total = 1 << n;
-    for (int mask = 1; mask < total - 1; mask++) { // proper subsets only
+    for (int mask = 1; mask < total - 1; mask++) {
         int lhs[MAX_ITEMS], rhs[MAX_ITEMS];
         int lhs_size = 0, rhs_size = 0;
 
