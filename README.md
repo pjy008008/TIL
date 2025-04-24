@@ -293,3 +293,6 @@
   - Null Safety (?, !!, ?:, let, safe call)
   - Data Class
   - Class, Inheritance, Interface
+- HeroTechCourse
+  - Racing Car Project
+  - Lotto Project
