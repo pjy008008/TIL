@@ -288,6 +288,10 @@
   - Static Contents, MVC, API
   - DB Access(JDBC, JdbcTemplate, JPA, Data JPA)
   - AOP(Aspect-Oriented Programming)
+  - Singleton Container
+  - Component Scan
+  - Autowired
+  - Spring Bean Lifecycle
 - Kotlin
   - Basic Syntax (val/var, functions, string templates)
   - Null Safety (?, !!, ?:, let, safe call)
