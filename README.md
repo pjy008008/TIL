@@ -303,3 +303,6 @@
 
 ## 2025-05
 - Capstone Front
+  - React(TypeScript)
+  - HLS
+  - Zustand
