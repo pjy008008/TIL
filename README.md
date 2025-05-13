@@ -306,3 +306,4 @@
   - React(TypeScript)
   - HLS
   - Zustand
+  - FastAPI
