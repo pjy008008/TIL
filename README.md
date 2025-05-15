@@ -307,3 +307,21 @@
   - HLS
   - Zustand
   - FastAPI
+- DataScience
+  - Aprior Algorithm, FP-Growth
+  - Pattern Evaluation(Lift, X^2)
+  - MaxMiner, CLOSET, ECLAT
+  - GSP, PrefixSpan
+  - Graph Pattern Mining
+  - Classification
+    - Decision Tree
+    - Infromation Gain, Gain Ratio, Gini Impurity
+    - Bayesia Classification
+    - SVM(Support Vector Machine)
+    - Bootstrap
+    - Ensemble method(Bagging, Boosting, Ensemble)
+    - Feature Selection(Filter methods, Wrapper methods, Embedded methods)
+  - Regression
+  - Recommender System(Content-based, Collaborative filtering)
+  - Clustering Algorithm(K-Means, DBSCAN, AGNES..)
+
