@@ -324,4 +324,8 @@
   - Regression
   - Recommender System(Content-based, Collaborative filtering)
   - Clustering Algorithm(K-Means, DBSCAN, AGNES..)
+- Cloud Computing
+  - Virtualization(Full, Semi)
+  - Hypervisor
+  - IaC(Ansible, Vagrant)
 
