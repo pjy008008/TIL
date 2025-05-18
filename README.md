@@ -307,7 +307,7 @@
   - HLS
   - Zustand
   - FastAPI
-  - Collecting dataset(HRV matrix, Facial Landmarks)
+  - Collecting dataset(HRV matrix, Facial Landmarks), Data Compression
 - DataScience
   - Aprior Algorithm, FP-Growth
   - Pattern Evaluation(Lift, X^2)
