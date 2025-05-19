@@ -329,4 +329,5 @@
   - Virtualization(Full, Semi)
   - Hypervisor
   - IaC(Ansible, Vagrant)
+  - HTCondor(JDS)
 
