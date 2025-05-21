@@ -332,4 +332,5 @@
   - Hypervisor
   - IaC(Ansible, Vagrant)
   - HTCondor(JDS)
+  - Automation HTCondor
 
