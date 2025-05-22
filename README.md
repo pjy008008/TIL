@@ -333,4 +333,6 @@
   - IaC(Ansible, Vagrant)
   - HTCondor(JDS)
   - Automation HTCondor
+  - VM Provisioning
+  - VM Configuration
 
