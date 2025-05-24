@@ -326,7 +326,89 @@
   - Regression
   - Recommender System(Content-based, Collaborative filtering)
   - Clustering Algorithm(K-Means, DBSCAN, AGNES..)
-  - DeepLearning
+  - DeepLearning(ㄱ# 2025-03
+- Data Science
+  - Data Measurement and PreProcessing
+  - Frequent Pattern
+- Cloud Computing
+  - NIST(SaaS, PaaS, IaaS)
+  - Grid Computing
+- JAVA
+  - Variable
+  - Method
+  - Operator
+  - Condition
+  - Loop
+  - Scope
+  - Casting
+  - Array
+  - Method
+  - Class
+
+## 2025-04
+- Java
+  - Primitive, Reference type
+  - OOP(Capsulation, Inheritance, Polymorphism)
+  - Constructor, Package
+  - Access Control
+  - Memory Structure, static
+  - OCP(Open-Closed-Principle)
+  - Object Class
+  - Immutable Object
+  - String, Wrapper, Class class
+  - Enum
+  - Nested Class, Inner Class
+  - Exception
+  - Generic(WildCard, Type Erasure)
+  - Collection Frameworks(List, Set, Map, Queue)
+  - Iterable, Iterator
+  - Comparable Comparator
+- Spring
+  - SOLID
+  - DI(Dependency Injection)
+  - Spring Container, Bean
+  - Static Contents, MVC, API
+  - DB Access(JDBC, JdbcTemplate, JPA, Data JPA)
+  - AOP(Aspect-Oriented Programming)
+  - Singleton Container
+  - Component Scan
+  - Autowired
+  - Spring Bean Lifecycle
+- Kotlin
+  - Basic Syntax (val/var, functions, string templates)
+  - Null Safety (?, !!, ?:, let, safe call)
+  - Data Class
+  - Class, Inheritance, Interface
+- HeroTechCourse
+  - Racing Car Project
+  - Lotto Project
+
+## 2025-05
+- Capstone Front
+  - React(TypeScript)
+  - HLS
+  - Zustand
+  - FastAPI
+  - Collecting dataset(HRV matrix, Facial Landmarks), Data Compression
+  - Documentation
+- DataScience
+  - Aprior Algorithm, FP-Growth
+  - Pattern Evaluation(Lift, X^2)
+  - MaxMiner, CLOSET, ECLAT
+  - GSP, PrefixSpan
+  - Graph Pattern Mining
+  - Classification
+    - Decision Tree
+    - Infromation Gain, Gain Ratio, Gini Impurity
+    - Bayesia Classification
+    - SVM(Support Vector Machine)
+    - Bootstrap
+    - Ensemble method(Bagging, Boosting, Ensemble)
+    - Feature Selection(Filter methods, Wrapper methods, Embedded methods)
+  - Regression
+  - Recommender System(Content-based, Collaborative filtering)
+  - Clustering Algorithm(K-Means, DBSCAN, AGNES..)
+  - DeepLearning(CNN, RNN)
 - Cloud Computing
   - Virtualization(Full, Semi)
   - Hypervisor
