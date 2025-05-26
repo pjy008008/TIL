@@ -374,6 +374,7 @@
   - Component Scan
   - Autowired
   - Spring Bean Lifecycle
+  - Bean Scope
 - Kotlin
   - Basic Syntax (val/var, functions, string templates)
   - Null Safety (?, !!, ?:, let, safe call)
