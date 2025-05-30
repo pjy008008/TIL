@@ -419,6 +419,7 @@
   - Automation HTCondor
   - VM Provisioning
   - VM Configuration
+  - Container
 - Spring
   - Review previous steps
 - Embedded Programming
