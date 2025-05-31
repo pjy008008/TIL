@@ -421,6 +421,6 @@
   - VM Configuration
   - Container
 - Spring
-  - Review previous steps
+  - Review previous steps(Spring basic)
 - Embedded Programming
 
