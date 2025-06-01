@@ -385,7 +385,7 @@
   - Lotto Project
 
 ## 2025-05
-- Capstone Front
+- Capstone
   - React(TypeScript)
   - HLS
   - Zustand
