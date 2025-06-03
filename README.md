@@ -390,6 +390,7 @@
   - HLS
   - Zustand
   - FastAPI
+  - Mediapipe
   - Collecting dataset(HRV matrix, Facial Landmarks), Data Compression
   - Documentation
 - DataScience
