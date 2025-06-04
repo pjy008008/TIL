@@ -393,6 +393,7 @@
   - Mediapipe
   - Collecting dataset(HRV matrix, Facial Landmarks), Data Compression
   - Documentation
+  - Prepare presentation
 - DataScience
   - Aprior Algorithm, FP-Growth
   - Pattern Evaluation(Lift, X^2)
@@ -424,4 +425,5 @@
 - Spring
   - Review previous steps(Spring basic)
 - Embedded Programming
+  - Prepare presentation
 
