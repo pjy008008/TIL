@@ -428,3 +428,7 @@
   - Prepare presentation
 
 ## 2025-06
+- Embedded Programming
+  - RealVNC Viewer
+  - Sensor(DHT-22, FC-28)
+  - Actuator(DWP-2760)
