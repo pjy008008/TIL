@@ -432,3 +432,7 @@
   - RealVNC Viewer
   - Sensor(DHT-22, FC-28)
   - Actuator(DWP-2760)
+  - Raspberry Pi
+  - Docker
+  - Spring Security
+  - CORS
