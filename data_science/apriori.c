@@ -5,7 +5,7 @@
 
 #define MAX_LINE_LENGTH 10000
 #define MAX_ITEMS 10000
-#define MIN_SUPPORT 5
+#define MIN_SUPPORT 4
 
 int **transactions = NULL;
 int *transaction_sizes = NULL;
