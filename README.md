@@ -412,7 +412,7 @@
   - Recommender System(Content-based, Collaborative filtering)
   - Clustering Algorithm(K-Means, DBSCAN, AGNES..)
   - DeepLearning(CNN, RNN)
-  - Social Network Analysis
+  - Social Network Analysis(SNA)
 - Cloud Computing
   - Virtualization(Full, Semi)
   - Hypervisor
