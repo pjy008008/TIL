@@ -326,7 +326,7 @@
   - Regression
   - Recommender System(Content-based, Collaborative filtering)
   - Clustering Algorithm(K-Means, DBSCAN, AGNES..)
-  - DeepLearning(ㄱ# 2025-03
+  - DeepLearning
 - Data Science
   - Data Measurement and PreProcessing
   - Frequent Pattern
