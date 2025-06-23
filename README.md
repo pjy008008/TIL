@@ -438,4 +438,4 @@
   - Spring Security
   - CORS
 - Cloud Computing
-  - AWS(E2C)
+  - AWS(E2C, S3, RDS)
