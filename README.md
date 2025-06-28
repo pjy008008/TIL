@@ -441,3 +441,4 @@
   - AWS(E2C, S3, RDS)
   - Deploy Web Site using AWS
   - Build Frontend using Next.js
+  - Build Backend using Spring
