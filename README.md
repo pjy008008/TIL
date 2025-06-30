@@ -442,4 +442,5 @@
   - Deploy Web Site using AWS
   - Build Frontend using Next.js
   - Build Backend using Spring
-  - Dtabase design using MySQL
+  - Database design using MySQL
+  - Learn about inbound and outbound rules
