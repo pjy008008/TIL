@@ -436,7 +436,7 @@
   - Raspberry Pi
   - Docker
   - Spring Security
-  - CORS
+  - CORS Configuration
 - Cloud Computing
   - AWS(E2C, S3, RDS)
   - Deploy Web Site using AWS
