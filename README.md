@@ -444,4 +444,4 @@
   - Build Backend using Spring
   - Database design using MySQL
   - Learn about inbound and outbound rules
-  - Simple CRUD site
+  - Simple CRUD site(blog)
