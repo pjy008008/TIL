@@ -458,3 +458,4 @@
 ## 2025-10
 - Capstone Design
 - Woowa Tech Course(precourse)
+  - String Calculator(1-week)
