@@ -459,3 +459,4 @@
 - Capstone Design
 - Woowa Tech Course(precourse)
   - String Calculator(1-week)
+  - Racing Car(2-week)
