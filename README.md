@@ -462,3 +462,4 @@
   - Racing Car(2-week)
   - Lotto(3-week)
     - Record Class
+    - Supplier(Java Functional Interface)
