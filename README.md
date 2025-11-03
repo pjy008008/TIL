@@ -463,3 +463,4 @@
   - Lotto(3-week)
     - Record Class
     - Supplier(Java Functional Interface)
+  - Open Mission(4~5-week)
