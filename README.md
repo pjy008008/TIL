@@ -464,4 +464,5 @@
     - Record Class
     - Supplier(Java Functional Interface)
   - Open Mission(4~5-week)
+    - J-Community(front, back)
 - Engineer Information Processing
