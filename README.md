@@ -465,4 +465,13 @@
     - Supplier(Java Functional Interface)
   - Open Mission(4~5-week)
     - J-Community(front, back)
+    - Frontend
+      - shadcn
+      - tailwind
+      - vite
+    - Backend
+      - lombok
+      - jpa
+      - lombok
+      - validation
 - Engineer Information Processing
