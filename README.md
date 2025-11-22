@@ -475,4 +475,4 @@
       - lombok
       - validation
 - Engineer Information Processing
-- Saffy Coding Test
+- Saffy Coding Test(2-sol)
