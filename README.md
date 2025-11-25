@@ -474,5 +474,6 @@
       - jpa
       - lombok
       - validation
+      - swagger
 - Engineer Information Processing
 - Saffy Coding Test(2-sol)
