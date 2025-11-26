@@ -478,3 +478,4 @@
 - Engineer Information Processing
 - Saffy Coding Test(2-sol)
 - Agent AI(Google ADK)
+  - Invest Strategy Agent
