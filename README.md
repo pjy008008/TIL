@@ -479,3 +479,8 @@
 - Saffy Coding Test(2-sol)
 - Agent AI(Google ADK)
   - Invest Strategy Agent
+    - Finance Coordinator
+    - Data Analysis Agent
+    - Finance Analysis Agent
+    - News Research Agent
+    - Total Analysis Agent
