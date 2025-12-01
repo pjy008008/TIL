@@ -475,6 +475,7 @@
       - lombok
       - validation
       - swagger
+      - OAuth 2.0
 - Engineer Information Processing
 - Saffy Coding Test(2-sol)
 - Agent AI(Google ADK)
