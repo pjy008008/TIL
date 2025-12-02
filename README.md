@@ -463,6 +463,8 @@
   - Lotto(3-week)
     - Record Class
     - Supplier(Java Functional Interface)
+
+## 2025-11
   - Open Mission(4~5-week)
     - J-Community(front, back)
     - Frontend
@@ -485,3 +487,6 @@
     - Finance Analysis Agent
     - News Research Agent
     - Total Analysis Agent
+
+## 2025-12
+- Saffy Interview
