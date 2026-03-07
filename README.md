@@ -502,3 +502,7 @@
     - Bellman-Ford
     - Folyd-Warshall
     - MST
+  - DP
+    - Relation between DP and DAG
+    - 0-1 Knapsack
+    - LCS(Longest Common Subsequence)
