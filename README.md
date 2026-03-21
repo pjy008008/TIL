@@ -501,7 +501,7 @@
     - Dijkstra
     - Bellman-Ford
     - Folyd-Warshall
-    - MST
+    - MST(Kruskal, Prim)
   - DP
     - Relation between DP and DAG
     - 0-1 Knapsack
