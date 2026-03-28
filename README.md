@@ -193,6 +193,7 @@
   - Form Error
 
 ## 2024-04
+
 - Computer Network
   - Data transmission and propagation
   - Spectrum
@@ -215,6 +216,7 @@
   - Fixed Partition, Variable Partition, Overlay, Swapping
 
 ## 2024-09~12
+
 - Software Engineering
   - Project Management
   - Project Planning
@@ -243,8 +245,8 @@
   - Hash Function(SHA-512)
   - RSA Public-Key Encryption Algorithm
 
-
 ## 2025-03
+
 - Data Science
   - Data Measurement and PreProcessing
   - Frequent Pattern
@@ -264,6 +266,7 @@
   - Class
 
 ## 2025-04
+
 - Java
   - Primitive, Reference type
   - OOP(Capsulation, Inheritance, Polymorphism)
@@ -302,6 +305,7 @@
   - Lotto Project
 
 ## 2025-05
+
 - Capstone Front
   - React(TypeScript)
   - HLS
@@ -346,6 +350,7 @@
   - Class
 
 ## 2025-04
+
 - Java
   - Primitive, Reference type
   - OOP(Capsulation, Inheritance, Polymorphism)
@@ -385,6 +390,7 @@
   - Lotto Project
 
 ## 2025-05
+
 - Capstone
   - React(TypeScript)
   - HLS
@@ -429,6 +435,7 @@
   - Prepare presentation
 
 ## 2025-06
+
 - Embedded Programming
   - RealVNC Viewer
   - Sensor(DHT-22, FC-28)
@@ -447,15 +454,19 @@
   - Simple CRUD site(blog)
 
 ## 2025-07
+
 - Capstone Design
 
 ## 2025-08
+
 - Capstone Design
 
 ## 2025-09
+
 - Capstone Design
 
 ## 2025-10
+
 - Capstone Design
 - Woowa Tech Course(precourse)
   - String Calculator(1-week)
@@ -465,19 +476,20 @@
     - Supplier(Java Functional Interface)
 
 ## 2025-11
-  - Open Mission(4~5-week)
-    - J-Community(front, back)
-    - Frontend
-      - shadcn
-      - tailwind
-      - vite
-    - Backend
-      - lombok
-      - jpa
-      - lombok
-      - validation
-      - swagger
-      - OAuth 2.0
+
+- Open Mission(4~5-week)
+  - J-Community(front, back)
+  - Frontend
+    - shadcn
+    - tailwind
+    - vite
+  - Backend
+    - lombok
+    - jpa
+    - lombok
+    - validation
+    - swagger
+    - OAuth 2.0
 - Engineer Information Processing
 - Saffy Coding Test(2-sol)
 - Agent AI(Google ADK)
@@ -489,11 +501,13 @@
     - Total Analysis Agent
 
 ## 2025-12
+
 - SSAFY Interview
   - PT Interview
   - Q&A
 
 ## 2025-03
+
 - Algorithm
   - Graph Theory
     - Union-Find
