@@ -520,7 +520,7 @@
     - Relation between DP and DAG
     - 0-1 Knapsack
     - LCS(Longest Common Subsequence)
-  - AI
-    - AL, ML, DL
-    - CNN, AlexNet, VGGNet, ResNet
-    - RNN, TransFormer, Attention, Foundation Model
+- AI
+  - AL, ML, DL
+  - CNN, AlexNet, VGGNet, ResNet
+  - RNN, TransFormer, Attention, Foundation Model
