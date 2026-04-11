@@ -519,8 +519,16 @@
   - DP
     - Relation between DP and DAG
     - 0-1 Knapsack
+    - LIS(Longest Increasing Subsequence)
     - LCS(Longest Common Subsequence)
 - AI
   - AL, ML, DL
   - CNN, AlexNet, VGGNet, ResNet
   - RNN, TransFormer, Attention, Foundation Model
+
+## 2025-04
+- Algorithm
+  - Tree
+    - Trie
+    - Segment Tree
+    - LCA(Lowest Commong Ancestor)
