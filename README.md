@@ -531,4 +531,7 @@
   - Tree
     - Trie
     - Segment Tree
+      - Dynamic Segment Tree
+      - Fenwick Tree
+      - 2D Segment Tree
     - LCA(Lowest Commong Ancestor)
