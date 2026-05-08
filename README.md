@@ -539,3 +539,6 @@
 - Servlet
 - JSP, EL, JSTL
 - MVC Pattern
+
+## 2025-05
+- JDBC
