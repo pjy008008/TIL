@@ -547,5 +547,8 @@
 - JDBC
 - SQL Mapper
   - JDBC Template
+  - MyBatis
 - ORM
+  - JPA
+  - Spring Data Jpa
   
