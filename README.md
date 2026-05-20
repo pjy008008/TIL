@@ -549,6 +549,6 @@
   - JDBC Template
   - MyBatis
 - ORM
-  - JPA
+  - JPA, QueryDsl
   - Spring Data Jpa
   
