@@ -551,4 +551,6 @@
 - ORM
   - JPA, QueryDsl
   - Spring Data Jpa
-  
+- JPA
+  - Persist Context
+  - Relational Mapping
