@@ -553,4 +553,5 @@
   - Spring Data Jpa
 - JPA
   - Persist Context
+  - Entity Mapping
   - Relational Mapping
