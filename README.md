@@ -557,3 +557,4 @@
   - Relational Mapping
 - SQLD
   - Data Modeling
+  - DML, DDL, DCL, TCL
