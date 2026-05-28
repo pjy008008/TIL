@@ -558,3 +558,4 @@
 - SQLD
   - Data Modeling
   - DML, DDL, DCL, TCL
+  - SELECT, FROM, WHERE, GROUP BY, HAVING, ORDER BY
