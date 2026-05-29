@@ -560,3 +560,7 @@
   - DML, DDL, DCL, TCL
   - SELECT, FROM, WHERE, GROUP BY, HAVING, ORDER BY
   - Inner Join, Outer Join, Natural Join, Equi Join, Cross Join
+  - SubQuery
+  - UNION, UNION ALL, INTERSECT, EXCEPT
+  - Group function
+  - Window function
