@@ -559,3 +559,4 @@
   - Data Modeling
   - DML, DDL, DCL, TCL
   - SELECT, FROM, WHERE, GROUP BY, HAVING, ORDER BY
+  - Inner Join, Outer Join, Natural Join, Equi Join, Cross Join
