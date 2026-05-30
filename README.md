@@ -564,3 +564,7 @@
   - UNION, UNION ALL, INTERSECT, EXCEPT
   - Group function
   - Window function
+  - Top N Query
+  - Hierarchical Query, Self Join
+  - PIVOT, UNPIVOT
+  - REGEXP
