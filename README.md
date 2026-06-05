@@ -571,3 +571,9 @@
 
 ## 2026-06
 - Vue
+- JPA
+  - Relational Mapping
+    - N:1
+    - 1:N
+    - 1:1
+    - N:M
