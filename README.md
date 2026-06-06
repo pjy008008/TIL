@@ -577,3 +577,5 @@
     - 1:N
     - 1:1
     - N:M
+    - Inheritance Relational Mapping
+    - Mapped Superclass
