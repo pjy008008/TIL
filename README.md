@@ -579,3 +579,6 @@
     - N:M
     - Inheritance Relational Mapping
     - Mapped Superclass
+  - Proxy
+  - Eager, Lazy Loading
+  - CASCADE
