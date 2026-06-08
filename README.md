@@ -582,3 +582,4 @@
   - Proxy
   - Eager, Lazy Loading
   - CASCADE
+  - Value Type
