@@ -583,3 +583,6 @@
   - Eager, Lazy Loading
   - CASCADE
   - Value Type
+    - Basic Type
+      - Java Basic Type
+      - Wrapper Class
