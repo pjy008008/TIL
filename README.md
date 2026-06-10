@@ -586,3 +586,4 @@
     - Basic Type
       - Java Basic Type
       - Wrapper Class
+    - Embedded Type
