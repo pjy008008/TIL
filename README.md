@@ -587,3 +587,5 @@
       - Java Basic Type
       - Wrapper Class
     - Embedded Type
+      - `@Embeddable`
+      - `@Embedded`
