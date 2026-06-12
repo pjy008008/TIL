@@ -589,3 +589,4 @@
     - Embedded Type
       - `@Embeddable`
       - `@Embedded`
+    - Collection Value Type
