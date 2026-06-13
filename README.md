@@ -590,3 +590,5 @@
       - `@Embeddable`
       - `@Embedded`
     - Collection Value Type
+      - List, Set
+      - `@EmlementCollection`, `@CollectionTable`
