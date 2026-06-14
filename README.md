@@ -570,6 +570,7 @@
   - REGEXP
 
 ## 2026-06
+- SQLD
 - Vue
 - JPA
   - Relational Mapping
