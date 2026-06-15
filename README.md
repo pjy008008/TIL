@@ -593,3 +593,5 @@
       - List, Set
       - `@EmlementCollection`, `@CollectionTable`
 - SSAFY
+  - Badamoyeo
+    - Vue + Vite
