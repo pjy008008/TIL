@@ -597,3 +597,4 @@
   - Badamoyeo
     - Vue + Vite
     - Spring
+    - OAuth
