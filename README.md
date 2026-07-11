@@ -602,3 +602,4 @@
 ## 2026-07
 - JPQL
 - SSAFY Project
+  - Qunesta
