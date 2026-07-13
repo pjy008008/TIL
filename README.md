@@ -604,3 +604,4 @@
 - SSAFY Project
   - Qunesta
   - Documentation
+  - Team meeting
