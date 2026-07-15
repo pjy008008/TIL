@@ -606,3 +606,4 @@
   - Documentation
   - Team meeting
   - Jira
+  - Git Setting
