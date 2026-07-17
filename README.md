@@ -601,8 +601,7 @@
 
 ## 2026-07
 - JPQL
-- SSAFY Project
-  - Qunesta
+- SSAFY Project(Idea To Strategy)
   - Documentation
   - Team meeting
   - Jira
