@@ -606,3 +606,4 @@
   - Team meeting
   - Jira
   - Git Setting
+  - Collecting Data
