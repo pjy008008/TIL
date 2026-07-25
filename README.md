@@ -607,3 +607,4 @@
   - Jira
   - Git Setting
   - Collecting Data
+  - UI Design
