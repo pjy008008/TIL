@@ -608,3 +608,5 @@
   - Git Setting
   - Collecting Data
   - UI Design
+  - UI Implement
+    - TradingView LightWeight Chart API
