@@ -610,3 +610,4 @@
   - UI Design
   - UI Implement
     - TradingView LightWeight Chart API
+  - System Architecture
