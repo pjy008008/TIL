@@ -611,3 +611,4 @@
   - UI Implement
     - TradingView LightWeight Chart API
   - System Architecture
+  - Trading Engine
