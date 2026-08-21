@@ -614,4 +614,4 @@
 
 ## 2026-08
 - SSAFY Project2
-  
+  - Brain Storming
