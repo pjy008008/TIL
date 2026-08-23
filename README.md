@@ -612,6 +612,7 @@
     - TradingView LightWeight Chart API
   - System Architecture
   - CI/CD Pipeline
+  - Trading Engine
 
 ## 2026-08
 - SSAFY Project2
