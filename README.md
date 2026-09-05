@@ -622,3 +622,4 @@
   - Swagger
   - Jwt(Auth)
   - WebSocket
+  - Spring Batch
