@@ -624,3 +624,4 @@
   - WebSocket
   - Spring Batch
   - Scheduler & Polling
+  - Fallback
