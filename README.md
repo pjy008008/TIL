@@ -628,3 +628,6 @@
 
 ## 2026-09
 - Network
+  - TSL, SSL
+  - TCP, UDP
+  - 3-way-handshake, 4-way-handshake
