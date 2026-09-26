@@ -633,3 +633,4 @@
   - 3-way-handshake, 4-way-handshake
 - Cloud
   - IaaS, PaaS, SaaS
+  - Public, Private, Hybrid Cloud
