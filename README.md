@@ -634,3 +634,4 @@
 - Cloud
   - IaaS, PaaS, SaaS
   - Public, Private, Hybrid Cloud
+  - Region, Availability Zone
