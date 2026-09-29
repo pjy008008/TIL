@@ -636,3 +636,4 @@
   - Public, Private, Hybrid Cloud
   - Region, Availability Zone
   - VPC, Subnet
+  - Load Balancer, Auto Scaling
