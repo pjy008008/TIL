@@ -638,3 +638,4 @@
   - VPC, Subnet
   - Load Balancer, Auto Scaling
 ## 2026-10
+- Cloud: IAM, Role, Policy
