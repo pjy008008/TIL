@@ -640,3 +640,4 @@
 ## 2026-10
 - Cloud: IAM, Role, Policy
 - Cloud: Object Storage, Block Storage
+- Cloud: Security Group, Network ACL
